@@ -1,0 +1,8 @@
+Action ¹0.
+The initial array 
+-99.78 -47.37 -14.92 -40.58 -81.43 8.56 -53.36 -1.96 -32.54 -83.46 
+
+Action ¹1.
+Sort: Full Chaos Full Chaos; Comparisons: 0; Operations: 0; Time: 0. 
+-14.92 8.56 -40.58 -99.78 -81.43 -47.37 -53.36 -1.96 -32.54 -83.46 
+
